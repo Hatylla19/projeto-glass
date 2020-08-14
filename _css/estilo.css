@@ -11,7 +11,7 @@ body {
 	  }
 		p{
 			text-align: justify;
-			text-indent: 50px;S
+			text-indent: ;inherit
 		}
 
 		a {
@@ -262,4 +262,15 @@ footer#rodape {
 
 footer#rodape p {
 	text-align: center;
+}
+
+video#filme2 {
+	width: 350px;
+}
+
+/*Formatação fale-conosco*/
+
+form#fcontato {
+	display: block;
+	width: 900px;
 }
